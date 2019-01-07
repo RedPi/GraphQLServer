@@ -1,0 +1,5 @@
+service: api-server-recette
+runtime: nodejs10
+
+beta_settings:
+  cloud_sql_instances: valtus:europe-west1:valtus-recette
